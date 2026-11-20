@@ -10,7 +10,7 @@
 
 [▶ 观看 / 下载 NUO 角色预告样片](nuo_reveal_trailer.mp4)
 
-这是本项目提供的效果示例，时长 15 秒，1920 × 1080，60 fps，带声音。样片用于展示角色、文字、快切画面和节奏配合的创作方向；不同角色素材、工具和创意选择会产生不同结果。
+这是本项目提供的效果示例，原片时长 15 秒，1920 × 1080，60 fps，带声音；仓库中的样片为 1280 × 720、30 fps 的压缩版本。样片用于展示角色、文字、快切画面和节奏配合的创作方向；不同角色素材、工具和创意选择会产生不同结果。
 
 ### 可以做什么
 
@@ -53,7 +53,7 @@ Turn a character illustration, avatar, turnaround sheet, or written concept into
 
 [▶ Watch / download the NUO reveal trailer](nuo_reveal_trailer.mp4)
 
-The supplied example is 15 seconds long, 1920 × 1080, 60 fps, with audio. It illustrates a direction for combining character imagery, typography, fast cuts, and rhythm. Results vary with the source material, tools, and creative decisions.
+The original is 15 seconds long, 1920 × 1080, 60 fps, with audio; the repository hosts a compressed 1280 × 720, 30 fps copy. It illustrates a direction for combining character imagery, typography, fast cuts, and rhythm. Results vary with the source material, tools, and creative decisions.
 
 ### What it can do
 
