@@ -8,6 +8,8 @@
 
 ### 样片
 
+https://github.com/user-attachments/assets/1da9968c-ecfe-44a7-8c9a-875119c5d1b3
+
 [▶ 观看 / 下载 NUO 角色预告样片](nuo_reveal_trailer.mp4)
 
 这是本项目提供的效果示例，原片时长 15 秒，1920 × 1080，60 fps，带声音；仓库中的样片为 1280 × 720、30 fps 的压缩版本。样片用于展示角色、文字、快切画面和节奏配合的创作方向；不同角色素材、工具和创意选择会产生不同结果。
@@ -50,6 +52,8 @@ cp SKILL.md ~/.codex/skills/character-reveal-trailer/
 Turn a character illustration, avatar, turnaround sheet, or written concept into a fast-paced reveal trailer. This repository contains a **Skill workflow for AI coding agents**: it guides the agent through preparing character assets, designing shots, building an interactive preview, and exporting a video when requested.
 
 ### Demo
+
+https://github.com/user-attachments/assets/1da9968c-ecfe-44a7-8c9a-875119c5d1b3
 
 [▶ Watch / download the NUO reveal trailer](nuo_reveal_trailer.mp4)
 
